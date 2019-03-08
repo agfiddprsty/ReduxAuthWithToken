@@ -1,0 +1,36 @@
+.listbatch:hover {
+    text-decoration: none;
+}
+
+
+.modul{
+    color:#212529;
+    box-shadow: none;
+}
+
+
+.modul:hover {
+    text-decoration: none;
+    color: #212529;
+}
+
+.deck{
+    margin:  20px 5px 20px 5px;
+}
+
+.crdbdy{
+    text-align: left;
+    box-sizing: unset;
+}
+
+.silab{
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.list-group{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
